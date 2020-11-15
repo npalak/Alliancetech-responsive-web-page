@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.toolbar {
+  background-color: blue;
+}
+
+small {
+  font-size: 12px;
+  margin-left: 20%;
+}
+
+.drawers {
+  font-size: 12px;
+}
